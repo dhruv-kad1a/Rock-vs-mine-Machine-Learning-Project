@@ -29,3 +29,4 @@ Environment                | Jupyter Notebook
 4. Model training using Logistic Regression
 5. Model evaluation
 6. Prediction system for new input data
+<img src='https://github.com/dhruv-kad1a/Rock-vs-mine-Machine-Learning-Project/blob/main/workflow.PNG' width='700'>
